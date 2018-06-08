@@ -1,1 +1,1 @@
-web: gunicorn evo_task1.wsgi
+web: gunicorn TVandRe/wsgi.py
